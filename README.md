@@ -18,4 +18,4 @@ To run this app locally, follow these steps:
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+gh repo clone MeghaBharti/image-classification-app
